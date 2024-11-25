@@ -1,0 +1,2 @@
+Hola mundo, esto es un ejemplo de procesamiento paralelo.
+Este es otro ejemplo, con más palabras y palabras repetidas.
